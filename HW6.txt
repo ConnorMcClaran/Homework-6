@@ -1,6 +1,6 @@
 Connor McClaran, Questions from Homework 6 that don't require code
 
-4.1.2) Adjacency Matrix
+4.1.2) Adjacency Matrix 0= not adjacent 1 = adjacent
 0 0 1 0 0 1 1 0 0 0 0 0
 0 0 0 0 1 0 0 0 1 0 0 1
 1 0 0 1 0 1 1 0 0 0 0 0
